@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img scc="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Terminal-Operating-System-Tui-Utilities/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Terminal-Operating-System-Tui-Utilities?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Terminal-Operating-System-Tui-Utilities/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Terminal-Operating-System-Tui-Utilities?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Terminal-Operating-System-Tui-Utilities/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Terminal-Operating-System-Tui-Utilities?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Terminal-Operating-System-Tui-Utilities/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Terminal-Operating-System-Tui-Utilities" alt="GitHub Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Terminal-Operating-System-Tui-Utilities/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"/></a>
@@ -65,7 +65,7 @@ The following commercial products and managed cloud platforms offer AI-assisted 
 
 Curated open-source terminal window managers, terminal emulators, multiplexers, and TUI development frameworks. **Sorted descending by GitHub stargazer count.**
 
-| 📦 Repository & Link | ⭐ GitHub Stars | 💻 Primary Tech | 📝 Description |
+| 📦 Repository & Link | ⭐ GitHub_Stars | 💻 Primary Tech | 📝 Description |
 | :--- | :--- | :--- | :--- |
 | **[junegunn/fzf](https://github.com/junegunn/fzf)** | [![Stars](https://img.shields.io/github/stars/junegunn/fzf?style=social&color=white)](https://github.com/junegunn/fzf/stargazers) | Go | Blazing-fast, general-purpose command-line fuzzy finder and interactive filter for files, command history, and shell pipelines. |
 | **[jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)** | [![Stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=social&color=white)](https://github.com/jesseduffield/lazygit/stargazers) | Go | Simple, lightning-fast terminal UI for Git commands, staging hunks, interactive rebasing, and branch navigation. |
@@ -119,7 +119,7 @@ Contributions are warmly welcomed! To add or update an entry:
 
 1. 🍴 Fork the repository.
 2. ✍️ Add your platform or project to `README.md` following the table format.
-3. 🔍 Ensure descriptions are factual, links are valid, and correct GitHub repository star badges are included.
+3. 🔍 Ensure descriptions are factual, links are valid, and correct GitHub repository Stars_Badges are included.
 4. 🚀 Submit a pull request with a concise summary of the addition.
 
 ---
